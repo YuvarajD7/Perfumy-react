@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Perfumy-react/static/css/main.d3df5433.css",
+    "main.js": "/Perfumy-react/static/js/main.ddf1009a.js",
+    "static/media/Villian.png": "/Perfumy-react/static/media/Villian.fe2af593e49e50509e0d.png",
+    "static/media/Designer club blue.png": "/Perfumy-react/static/media/Designer club blue.f644b105358de0792c98.png",
+    "static/media/fogg.png": "/Perfumy-react/static/media/fogg.d258adaacc752cc8c7d1.png",
+    "index.html": "/Perfumy-react/index.html",
+    "main.d3df5433.css.map": "/Perfumy-react/static/css/main.d3df5433.css.map",
+    "main.ddf1009a.js.map": "/Perfumy-react/static/js/main.ddf1009a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3df5433.css",
+    "static/js/main.ddf1009a.js"
+  ]
+}
